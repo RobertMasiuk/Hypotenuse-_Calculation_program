@@ -26,7 +26,7 @@ public class PythagoreanTheorem {
         
         c = (pow(a, 2)) + (pow(b, 2));
         c = sqrt(c);
-        //System.out.println("Hypotenuse equals: " + c);
+        System.out.println("Hypotenuse equals: " + c);
         }
 
 }
