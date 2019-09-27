@@ -1,5 +1,5 @@
 /*
-this program calculates the hypotenuse
+This program calculates the hypotenuse
 */
 package pythagoreantheorem;
 
